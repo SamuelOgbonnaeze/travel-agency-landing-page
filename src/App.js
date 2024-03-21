@@ -13,7 +13,7 @@ function App() {
       <Hero />
       <Offers />
       <Plan />
-      <Rooms />
+      <Rooms className="mb-6" />
       <ImageSlider />
      <Footer />
     </div>
